@@ -1,0 +1,6 @@
+{
+  "name": "Forest Fire Rescue",
+  "description": "Game edukasi 2D pixel art pencegahan dan penanganan kebakaran hutan, pemadaman titik api, penyelamatan satwa, dan perlindungan pemukiman untuk siswa kelas 11 SMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
